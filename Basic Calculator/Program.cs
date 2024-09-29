@@ -6,7 +6,7 @@ string operation = Console.ReadLine();
 
 Console.WriteLine("Enter the First Number:");
 int Num1 = int.Parse(Console.ReadLine());
-Console.WriteLine("Enter the First Number:");
+Console.WriteLine("Enter the Second Number:");
 int Num2 = int.Parse(Console.ReadLine());
 
 if (operation == "1")
