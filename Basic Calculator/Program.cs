@@ -9,6 +9,7 @@ int Num1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Enter the Second Number:");
 int Num2 = int.Parse(Console.ReadLine());
 
+
 if (operation == "1")
     {
         int result = Num1 + Num2;
@@ -33,7 +34,6 @@ else if (operation == "4")
         Console.WriteLine("Result: " + result + " is the answer");
         Console.ReadLine();
     }
-
 
 
 
